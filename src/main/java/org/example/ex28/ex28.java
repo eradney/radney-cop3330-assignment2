@@ -7,4 +7,7 @@ package org.example.ex24;
 import java.util.Scanner;
 
 public class ex28 {
+    public static void main( String[] args) {
+
+    }
 }
