@@ -3,7 +3,7 @@
  *  Copyright 2021 Emily Radney
  */
 
-package org.example;
+package org.example.ex25;
 import java.util.Scanner;
 
 public class ex25 {

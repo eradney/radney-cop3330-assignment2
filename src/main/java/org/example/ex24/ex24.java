@@ -3,7 +3,7 @@
  *  Copyright 2021 Emily Radney
  */
 
-package org.example;
+package org.example.ex24;
 import java.util.Scanner;
 import java.util.Arrays;
 
